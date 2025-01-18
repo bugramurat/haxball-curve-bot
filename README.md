@@ -21,6 +21,12 @@ Run the bot:
 node curve_bot.js
 ```
 
+## Indicator colors
+- *Green* for light curved shot
+- *Yellow* for medium curved shot
+- *Red* for hard curved shot
+- *Purple* for power shot
+
 ## Libraries
 - haxball.js
 
