@@ -4,7 +4,7 @@ Haxball curve bot with indicator *(adjustable curved shot and power shot)* with 
 Also has a *cool* goal celebration effect
 
 ## Preview
-![preview](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVkdXBnYzFnMDJiZzJ6MWdtcGlqeDB3aWlsdjZlYXB2eWFpaGVtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QL61nwJd8HPtS3bDg8/giphy-downsized-large.gif)
+![preview](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG16eXJuNDJjNHpvdTllYWt3MTJjZG5jNzVoYnIxcmJ3ODAxZGpwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZfHDwrYJvEGIOWpF3W/giphy.gif)
 
 ## How to run
 Run this to **download** this project: *(or download manually and go to your project-folder path)*
