@@ -18,10 +18,15 @@ Install dependecies:
 ```
 npm install
 ```
+**Paste your token** here in *curve_bot.js* file to run this bot *(https://www.haxball.com/headlesstoken)*
+```
+const HEADLESS_TOKEN = "insert_your_headless_haxball_token_here"
+```
 Run the bot:
 ```
 node curve_bot.js
 ```
+(You can adjust your room's name and other settings in *curve_bot.js* file)
 
 ## Indicator colors
 - *Green* for light curved shot
