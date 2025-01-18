@@ -3,7 +3,7 @@ Haxball curve bot with indicator *(adjustable curved shot and power shot)* with 
 <br><br>
 Also has a *cool* goal celebration effect
 <br><br>
-You can use this bot with custom maps but you must create **6 extra discs** for *indicator* and arrange their **ID's** on *curve_bot.js* file
+You can use this bot with custom maps but you must create **6 extra discs** for *indicator* and arrange their **ID's** in *curve_bot.js* file
 
 ## Preview
 ![preview](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG16eXJuNDJjNHpvdTllYWt3MTJjZG5jNzVoYnIxcmJ3ODAxZGpwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZfHDwrYJvEGIOWpF3W/giphy.gif)
