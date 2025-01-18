@@ -23,3 +23,6 @@ node curve_bot.js
 
 ## Libraries
 - haxball.js
+
+<br></br>
+*For further information: bugramurat4444@gmail.com or discord: buggyraz*
