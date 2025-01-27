@@ -4,9 +4,9 @@ const fs = require('fs'); // Required to work with the file system
 
 //----------------------- !!! CHANGE ONLY THESE VARIABLES !!! ----------------------------------------------------------------------------------------------
 //------------------------ ROOM CONFIGS -----------------------------------------
-const HEADLESS_TOKEN = "thr1.AAAAAGeXqcBqZwLpVVsYtQ.5BpIi1nAxuw" // You must paste your token here to run this bot (https://www.haxball.com/headlesstoken)
-const ROOM_NAME = "falsolu futsal deneme"
-const MAX_PLAYER_NUMBER = 2
+const HEADLESS_TOKEN = "insert_your_headless_haxball_token_here" // You must paste your token here to run this bot (https://www.haxball.com/headlesstoken)
+const ROOM_NAME = "your_room_name"
+const MAX_PLAYER_NUMBER = 8
 const IS_PUBLIC = true
 
 const TIME_LIMIT = 3
