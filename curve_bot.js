@@ -21,7 +21,7 @@ const POWER_SHOT_MULTIPLIER = 1.08 // Multiplies the ball's speed for power shot
 const POWER_SHOT_DURATION = 0.2 // Power shot duration in seconds
 
 //------------------------ STADIUM CONFIG -----------------------------------------
-const STADIUM_PATH = 'eafc.hbs'; // Make sure your custom stadium have extra discs for indicators (6)
+const STADIUM_PATH = 'eafc.hbs'; // Make sure your custom stadium have extra discs for indicators
 //------------------------ !!! CHANGE ONLY THESE VARIABLES !!! ----------------------------------------------------------------------------------------------
 
 function calculateDistance(pos1, pos2) {
