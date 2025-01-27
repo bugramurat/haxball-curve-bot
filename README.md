@@ -6,7 +6,7 @@ Also has a *cool* goal celebration effect
 You can use this bot with custom maps but you must create **6 extra discs** for *indicator* and arrange their **ID's** in *curve_bot.js* file
 
 ## Preview
-![preview](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG16eXJuNDJjNHpvdTllYWt3MTJjZG5jNzVoYnIxcmJ3ODAxZGpwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZfHDwrYJvEGIOWpF3W/giphy.gif)
+![preview](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VhNnp1ZzI5djUycXU0NDY5ZzRpNXBmeTJpcmV1b21xcG5oNzlnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0ybbkT6wrH94PYXFNV/giphy.gif)
 
 ## How to run
 Run this to **download** this project: *(or download manually and go to your project-folder path)*
