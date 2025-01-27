@@ -35,7 +35,7 @@ node curve_bot.js
 - *Purple* for power shot
 
 ## Libraries
-- node-haxball.js
+- node-haxball
 
 <br></br>
 *For further information: bugramurat4444@gmail.com or discord: buggyraz*
