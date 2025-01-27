@@ -1,5 +1,5 @@
 # Haxball Curve Bot
-Haxball curve bot with indicator *(adjustable curved shot and power shot)* with Haxball Headless API
+Haxball curve bot with indicator *(adjustable curved shot and power shot)* with node-haxball API
 <br><br>
 Also has a *cool* goal celebration effect
 <br><br>
@@ -35,7 +35,7 @@ node curve_bot.js
 - *Purple* for power shot
 
 ## Libraries
-- haxball.js
+- node-haxball.js
 
 <br></br>
 *For further information: bugramurat4444@gmail.com or discord: buggyraz*
