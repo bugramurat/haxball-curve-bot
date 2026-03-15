@@ -1,3 +1,5 @@
+# THIS VERSION HAS A LOT OF BUGS. PLEASE CHECK NEW UPDATED VERSION: https://github.com/bugramurat/haxball-curve-bot-v2
+
 # Haxball Curve Bot
 Haxball curve bot with indicator *(adjustable curved shot and power shot)* with node-haxball API
 <br><br>
